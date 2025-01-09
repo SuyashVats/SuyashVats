@@ -37,10 +37,7 @@
 ![My Skills](https://skillicons.dev/icons?i=git,github,md,vscode,redux,prisma,netlify,vercel&theme=dark)
 <img height="50" width="50" src="https://forum.obsidian.md/uploads/default/original/2X/b/b0c1ac65c3b9c3c94389bbfa5466dae781e06d85.png"/>
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashVats&theme=black-ice" alt="Shivam-Danawale"  />
-</p>
+
 
 ## 📬 Get in touch
 
