@@ -30,6 +30,7 @@
 ### Frameworks and platforms
 ![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,nestjs,express,tailwind,bootstrap,aws,azure,linux,materialui&theme=dark)
 
+
 ### Databases
 ![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,mysql&theme=dark)
 
